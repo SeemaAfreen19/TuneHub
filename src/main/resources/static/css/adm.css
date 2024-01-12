@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{
+	background-color: lightgreen;
+	color:white;
+	border: 3px solid white;
+	border-radius: 12px;
+	font-size: 20px;
+	font-weight: lighter;
+	margin:30px;
+	padding: 30px;
+	background-image: url('https://f.vividscreen.info/soft/277467d42462fd06d0fa61226e8379cf/Musical-Notes-1920x1200.jpg');
+}
+a{
+	background-color :skyblue;
+	color: black;
+	padding: 14 px 25 px;
+	text-align: center;
+	display: inline-block;
+}
+a:hover {
+	background-color: hotpink;
+}

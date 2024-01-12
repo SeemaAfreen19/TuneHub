@@ -1,0 +1,21 @@
+@charset "UTF-8";
+head{
+	text-align: center;
+	color: blue;
+}
+body {
+	background-image: url('https://wallpaperset.com/w/full/d/2/4/467012.jpg');
+}
+h1{
+	color: white;
+}
+a{
+	background-color :yellow;
+	color: black;
+	padding: 14 px 25 px;
+	text-align: center;
+	display: inline-block;
+}
+a:hover {
+	background-color: hotpink;
+}

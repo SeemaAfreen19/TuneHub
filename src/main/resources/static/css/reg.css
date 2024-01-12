@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body{
+	background-image: url('https://wallpaperset.com/w/full/0/3/f/466996.jpg');
+}
+
+form{
+	border: 3px solid white;
+	border-radius: 12px;
+	font-size: 20px;
+	font-weight: lighter;
+	margin:30px;
+	padding: 30px;
+	color: yellow;
+}
